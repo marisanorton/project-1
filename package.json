@@ -1,0 +1,26 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Marisa Norton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nortonm5/project-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nortonm5/project-1/issues"
+  },
+  "homepage": "https://github.com/nortonm5/project-1#readme"
+}
